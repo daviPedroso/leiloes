@@ -29,5 +29,7 @@ public class conectaDAO {
         }
         return conn;
     }
-    
+    public void desconectar(){
+        
+    }
 }
